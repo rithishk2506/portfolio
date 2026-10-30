@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><radialGradient id="g" cx="35%" cy="25%" r="80%"><stop offset="0" stop-color="#1c5b91"/><stop offset=".58" stop-color="#101a2c"/><stop offset="1" stop-color="#080b14"/></radialGradient></defs>
+<rect width="600" height="600" fill="url(#g)"/>
+<circle cx="300" cy="235" r="105" fill="#dbe7f5" opacity=".88"/>
+<path d="M105 570c18-135 92-205 195-205s177 70 195 205" fill="#dbe7f5" opacity=".88"/>
+<circle cx="300" cy="300" r="278" fill="none" stroke="#e62429" stroke-width="5" opacity=".8"/>
+<text x="300" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" letter-spacing="5" fill="#fff">YOUR PHOTO</text>
+</svg>
